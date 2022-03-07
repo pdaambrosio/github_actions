@@ -44,7 +44,7 @@ jobs:
         aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         application_name: webapp
         environment_name: webapp-dev
+        region: us-east-1
         version_label: ${{ github.run_id }}
         version_description: ${{ github.sha }}
-        region: us-east-1
         deployment_package: ${{ github.workspace }}/out.zip
