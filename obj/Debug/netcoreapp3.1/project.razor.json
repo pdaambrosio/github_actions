@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/GitHub-Actions/GitHub-Actions.csproj",
+  "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/github_actions /GitHub-Actions.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,38 +14402,38 @@
   "RootNamespace": "GitHub_Actions",
   "Documents": [
     {
-      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/GitHub-Actions/Pages/_ViewImports.cshtml",
+      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/github_actions /Pages/_ViewImports.cshtml",
       "TargetPath": "_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/GitHub-Actions/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/GitHub-Actions/Pages/Error.cshtml",
-      "TargetPath": "Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/GitHub-Actions/Pages/Index.cshtml",
-      "TargetPath": "Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/GitHub-Actions/Pages/Privacy.cshtml",
-      "TargetPath": "Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/GitHub-Actions/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/github_actions /Pages/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/GitHub-Actions/Pages/_ViewStart.cshtml",
+      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/github_actions /Pages/_ViewStart.cshtml",
       "TargetPath": "_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/github_actions /Pages/Shared/_Layout.cshtml",
+      "TargetPath": "_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/github_actions /Pages/Index.cshtml",
+      "TargetPath": "Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/github_actions /Pages/Privacy.cshtml",
+      "TargetPath": "Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/kali-user/courses_projects/serverless_oriented_event/github_actions /Pages/Error.cshtml",
+      "TargetPath": "Error.cshtml",
       "FileKind": "mvc"
     }
   ],
