@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mD4lRHB6ryx09izZm8EtZ+DNlBSy9oyB1wG8P/7gfBO5Mb/y4Mxkw7hZGcx6iME5fMAvR4h0B2m9IFNqi4SyqA==",
+  "dgSpecHash": "NtkfTAx7xz/4k330VmQdlasPgIJ/787hUMqbkO2P0N9cKDS0o+C/eWtd76yKuZNM88V/IJtR53+nzOcgVc588A==",
   "success": true,
-  "projectFilePath": "/home/kali-user/OneDrive/Locaweb/courses_projects/serverless_oriented_event/GitHub-Actions/GitHub-Actions.csproj",
+  "projectFilePath": "/home/kali-user/OneDrive/Locaweb/courses_projects/serverless_oriented_event/github_actions/github_actions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

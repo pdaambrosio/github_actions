@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kali-user/OneDrive/Locaweb/courses_projects/serverless_oriented_event/GitHub-Actions/GitHub-Actions.csproj",
-      "projectName": "GitHub-Actions",
-      "projectPath": "/home/kali-user/OneDrive/Locaweb/courses_projects/serverless_oriented_event/GitHub-Actions/GitHub-Actions.csproj",
+      "projectUniqueName": "/home/kali-user/OneDrive/Locaweb/courses_projects/serverless_oriented_event/github_actions/github_actions.csproj",
+      "projectName": "github_actions",
+      "projectPath": "/home/kali-user/OneDrive/Locaweb/courses_projects/serverless_oriented_event/github_actions/github_actions.csproj",
       "packagesPath": "/home/kali-user/.nuget/packages/",
-      "outputPath": "/home/kali-user/OneDrive/Locaweb/courses_projects/serverless_oriented_event/GitHub-Actions/obj/",
+      "outputPath": "/home/kali-user/OneDrive/Locaweb/courses_projects/serverless_oriented_event/github_actions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kali-user/.nuget/NuGet/NuGet.Config"
